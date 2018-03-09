@@ -1,0 +1,9 @@
+Building Kktcoin
+
+See doc/readme-qt.rst for instructions on building Kktcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kktcoin.
+
+See doc/build-*.txt for instructions on building kktcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kktcoin.
